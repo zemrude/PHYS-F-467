@@ -7,13 +7,13 @@ The course is intended to be a survey of the emerging field of high-energy parti
 
 ### Disclaimer and Acknowledgments
 
-The notes are far from original work. I limited myself to scrap the internet and the read the literature on the subject, assimilate the concepts and reproduce them in more or less coherent story. The seed of such work came from Kael Hanson, from whom I inherited the course. After him there is an endless list of people from whom I shamelessly took material: Alexander Kappes, Teresa Montaruli, Stefano Gabici, and a long etc.
+These notes are far from original work. I limited myself to scrap the internet, read the literature on the subject, assimilate concepts, and later reproduce them in more or less coherent story. The seed of such work came from Kael Hanson, from whom I inherited the course. After him there is an endless list of people whom I shamelessly took material from: Alexander Kappes, Teresa Montaruli, Carlos de los Heros, Stefano Gabici, and a long etc.
 
-### Why there are python tutorials?
+### Why are there python tutorials?
 
-Although certainly is not a requirement to understand the physical processed involved in astroparticle phenomena, I think it is beneficial to resolve numerically some of the proposed problems in order to better assimilate the concepts discussed during this course. The ```python``` programming language is used as a tool for constructing these numerical solutions. There exist complete mathematical libraries (```numpy/scipy```) for ```python``` as well as powerful interactive tools and graphical visualization frameworks which make it possible to easily construct problem solvers in a matter of minutes along with graphical output. The idea is also to familiarize the student with what has become one of the most popular analysis tools in the high energy physics as well as astronomy communities.
+Although certainly is not a requirement to understand the physical processed involved in astroparticle phenomena, I think it is beneficial to resolve numerically some of the proposed problems in order to better assimilate the concepts discussed during this course. The ```python``` programming language is used as a tool for constructing these numerical solutions. The advantage is that there exist complete mathematical libraries (```numpy/scipy```) for ```python```, astronomycal and analysis toolboxes (```astropy/healpy```), as well as powerful graphical visualization frameworks (```matplotlib```) which make it possible to easily construct problem solvers in a matter of minutes along with its graphical output. The idea is also to familiarize the student with what has become one of the most popular analysis tools in the high energy physics as well as astronomy communities.
 
-### Table of Content
+### Table of Content (so far, more to come)
 
 * Lesson 1: [The computational framework: Particle Physics and Cosmology](https://github.com/zemrude/PHYS-F-467/blob/master/PA2.ipynb)
 * Lesson 2: [Cosmic Rays](https://github.com/zemrude/PHYS-F-467/blob/master/PA3.ipynb)
