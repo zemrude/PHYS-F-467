@@ -36,20 +36,21 @@ body {
 .text_cell_render figure {
     display: table;
     align-self: center;
-    width: 500px; /* This limite the width of all figures */
+    width: 500px /* This limite the width of all figures */
+}
 
+.text_cell_render div {
+  display: block;
+  margin-left: auto;
+  margin-right: auto
 }
 
 .text_cell_render img {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  align-self:center
   }
-.text_cell_render img, figcaption {
-  display: table-row;
-  font-size: 10pt;
-}
-
 
 
 .text_cell_render p{
@@ -83,7 +84,7 @@ body {
     text-align: left;
     display: block;
     page-break-before: always;
-    page-break-after: avoid;
+    page-break-after: avoid
 }
 
 .text_cell_render h3 {
@@ -94,29 +95,28 @@ body {
    display: block;
    border-bottom: 1px solid rgba(53,86,129, 0.3);
    page-break-before: always;
-   page-break-after: avoid;
+   page-break-after: avoid
 }
 
 
 .text_cell_render h4 {
    display: block;
    page-break-before: always;
-   page-break-after: avoid;
+   page-break-after: avoid
 }
 
 div.caption{
    text-align: center;
    font-style: italic;
-   font-size: 0.7em;
    font-weight: lighter;
+   border: none
 }
-
 
 div.question {
     background-color: #fcf2f2;
     border-color: #dFb5b4;
     border-left: 5px solid #dfb5b4;
-    padding: 0.5em;
+    padding: 0.5em
  }
 
 div.text_cell_render {
@@ -124,7 +124,7 @@ div.text_cell_render {
   font-size:1.2em;
   line-height:1.2em;
   text-align: justify;
-  text-justify: inter-word;
+  text-justify: inter-word
 }
 
 div.page-break { display: block; page-break-after: always; }
@@ -192,6 +192,7 @@ margin-top:0.4em;
           font-style: italic; !important
           font-size: 0.7em;
           font-weight: lighter;
+          border: none;
        }
 
 
