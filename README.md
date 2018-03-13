@@ -17,4 +17,8 @@ Although certainly is not a requirement to understand the physical processed inv
 
 * Lesson 1: [The computational framework: Particle Physics and Cosmology](https://github.com/zemrude/PHYS-F-467/blob/master/PA2.ipynb)
 * Lesson 2: [Cosmic Rays](https://github.com/zemrude/PHYS-F-467/blob/master/PA3.ipynb)
+* Lesson 3: [Cosmic Rays in Atmosphere](https://github.com/zemrude/PHYS-F-467/blob/master/PA4.ipynb)
+* Lesson 4: Multimessenger astronomy
+* Lesson 5: Dark Matter in astroparticle physics. 
+
 * Extras: [Python Tutorials](https://github.com/zemrude/PHYS-F-467/blob/master/tutorials-python.ipynb)
