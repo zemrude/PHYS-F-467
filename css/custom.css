@@ -1,0 +1,236 @@
+/*
+Placeholder for custom user CSS
+
+mainly to be overridden in profile/static/custom/custom.css
+
+This will always be an empty file in IPython
+*/
+
+<link href='http://fonts.googleapis.com/css?family=Fenix' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Alegreya+Sans:100,300,400,500,700,800,900,100italic,300italic,400italic,500italic,700italic,800italic,900italic' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Source+Code+Pro:300,400' rel='stylesheet' type='text/css'>
+
+<link href='http://fonts.googleapis.com/css?family=Alegreya+Sans:100,300,400,500,700,800,900,100italic,300italic,400italic,500italic,700italic,800italic,900italic' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Arvo:400,700,400italic' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=PT+Mono' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Shadows+Into+Light' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Philosopher:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+
+<style>
+
+body {
+  counter-reset: figcounter !important; /*This doesnt work, its overiden. I had to create a new template, print.tpl*/
+  background-color: black;
+}
+
+@font-face {
+    font-family: "Computer Modern";
+    src: url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunss.otf');
+}
+
+.text_cell_render p.version{
+    font-family: 'Alegreya Sans', sans-serif;
+    font-style:regular;
+    font-weight: 200;
+    font-size: 10pt;
+    line-height: 100%;
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
+    text-align: left;
+    text-justify: inter-word;
+    display: block;
+}
+
+.text_cell_render figure {
+    display: table;
+    align-self: center;
+    width: 500px; /* This limite the width of all figures */
+
+}
+.text_cell_render img, figcaption {
+    display: table-row;
+    font-size: 10pt;
+}
+
+
+.text_cell_render p{
+    text-align: justify;
+    text-justify: inter-word;
+    display: block;
+}
+
+.text_cell_render h1 {
+    font-family: 'Alegreya Sans', sans-serif;
+    font-style:regular;
+    font-weight: 200;
+    font-size: 40pt;
+    line-height: 100%;
+    color: rgb(12,85,97);
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
+    display: block;
+    page-break-before: always;
+    page-break-after: avoid;
+    string-set: doctitle content();
+}
+
+.text_cell_render h2 {
+    font-family: 'Helvetica', serif;
+    font-weight: 100;
+    font-size: 20pt;
+    line-height: 100%;
+    color: grey;
+    margin-top: 0.1em;
+    text-align: left;
+    display: block;
+    page-break-before: always;
+    page-break-after: avoid;
+}
+
+.text_cell_render h3 {
+   font-weight: 500;
+   font-family: 'Helvetica', sans-serif;
+   color: #355681;
+   text-aling: left;
+   display: block;
+   border-bottom: 1px solid rgba(53,86,129, 0.3);
+   page-break-before: always;
+   page-break-after: avoid;
+}
+
+
+.text_cell_render h4 {
+   display: block;
+   page-break-before: always;
+   page-break-after: avoid;
+}
+
+div.question {
+    background-color: #fcf2f2;
+    border-color: #dFb5b4;
+    border-left: 5px solid #dfb5b4;
+    padding: 0.5em;
+ }
+
+div.text_cell_render {
+  font-family: 'Arvo' sans-serif;
+  font-size:1.2em;
+  line-height:1.2em;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+div.page-break { display: block; page-break-after: always; }
+
+div a{
+    text-decoration: none !important;
+}
+
+#Notebook a {
+    text-decoration: none !important;
+}
+
+#Notebook li { /* More space between bullet points */
+margin-top:0.4em;
+}
+
+/* Default left, right, top, bottom margin is 2cm */
+@page {
+  size: A4;
+  margin: 1cm
+ }
+
+/* First page, 10 cm margin on top */
+@page :first {
+  margin-top: 2cm;
+}
+
+/* Left pages, a wider margin on the left */
+@page :left {
+  margin-left: 2cm;
+  margin-right: 1cm;
+}
+
+@page :right {
+  margin-left: 1cm;
+  margin-right: 2cm;
+}
+
+
+@media print{
+      .text_cell_render figcaption:before { /* this adds a fig. counter in front of every figure */
+            counter-increment: figcounter;
+            content: "Figure " counter(figcounter) ": ";
+            font-weight: bold;
+       }
+
+       a:after{content:" (" attr(href) ") ";font-size:0.6em;font-weight:normal;font-color:#355681;}
+       .text_cell_render h1 {
+           font-family: 'Alegreya Sans', sans-serif;
+           font-style:regular;
+           font-weight: 300;
+           font-size: 30pt;
+           line-height: 100%;
+           color: black;
+           margin-bottom: 0.5em;
+           margin-top: 0.5em;
+           display: block;
+           page-break-before: always;
+           page-break-after: avoid;
+       }
+       div.question {
+           background-color: #fcf2f2;
+           border-color: #dFb5b4;
+           border-left: 5px solid #dfb5b4;
+           padding: 0.5em;
+        }
+        * {
+          -webkit-print-color-adjust: exact;
+          print-color-adjust: exact;
+        }
+        *, *:before, *:after { background: transparent !important; box-shadow: none !important; text-shadow: none !important;
+}
+
+</style>
+<style type="text/css" media="print">
+            @page
+            {
+                size: 8.5in 11in;/* width height */
+            }
+
+            @page
+            {
+                @top-center
+                {
+                    content: element(header);
+                }
+
+                @bottom-left
+                {
+                    content: element(footer);
+                }
+            }
+
+            div.header
+            {
+                padding: 10px;
+                position: running(header);
+            }
+
+            div.footer
+            {
+                display: block;
+                padding: 5px;
+                position: running(footer);
+            }
+
+            .pagenumber:before
+            {
+                content: counter(page);
+            }
+
+            .pagecount:before
+            {
+                content: counter(pages);
+            }
+        </style>
