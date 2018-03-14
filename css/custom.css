@@ -12,6 +12,7 @@
 
 body {
   counter-reset: figcounter !important; /*This doesnt work, its overiden. I had to create a new template, print.tpl*/
+  color: white;
 }
 
 @font-face {
@@ -178,7 +179,6 @@ margin-top:0.4em;
            font-style:regular;
            font-size: 30pt;
            line-height: 100%;
-           color: black;
            margin-bottom: 0.5em;
            margin-top: 0.5em;
            display: block;
