@@ -12,7 +12,7 @@
 
 body {
   counter-reset: figcounter !important; /*This doesnt work, its overiden. I had to create a new template, print.tpl*/
-  background-color: black;
+
 }
 
 @font-face {
@@ -60,6 +60,8 @@ body {
 }
 
 .text_cell_render h1 {
+
+
     font-family: 'Alegreya Sans', sans-serif;
     font-style:regular;
     font-weight: 200;
@@ -102,21 +104,23 @@ body {
 .text_cell_render h4 {
    display: block;
    page-break-before: always;
-   page-break-after: avoid
+   page-break-after: avoid;
 }
 
 div.caption{
    text-align: center;
    font-style: italic;
+   font-size: 0.7em;
    font-weight: lighter;
-   border: none
+   border: none;
 }
+
 
 div.question {
     background-color: #fcf2f2;
     border-color: #dFb5b4;
     border-left: 5px solid #dfb5b4;
-    padding: 0.5em
+    padding: 0.5em;
  }
 
 div.text_cell_render {
@@ -124,7 +128,7 @@ div.text_cell_render {
   font-size:1.2em;
   line-height:1.2em;
   text-align: justify;
-  text-justify: inter-word
+  text-justify: inter-word;
 }
 
 div.page-break { display: block; page-break-after: always; }
