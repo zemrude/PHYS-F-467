@@ -9,13 +9,13 @@
     xmlns:svg="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink"
     xmlns="http://www.w3.org/2000/svg"
-    width="270.5"
-    height="249.16535433"
-    viewBox="0, 0, 270.5, 249.16535433"
+    width="251.132677168"
+    height="230.081496062"
+    viewBox="0, 0, 251.132677168, 230.081496062"
     preserveAspectRatio="none"
     id="svg2">
    <defs
-       id="defs_944C170B">
+       id="defs_F6283ADC">
       <marker
           orient="auto"
           refX="0.0"
@@ -58,45 +58,45 @@
       <line
           style="fill:none;stroke-dasharray:4,4"
           id="9E14FA8A"
-          x1="0.500000000001"
-          y1="114.377952755"
-          x2="238.61023622"
-          y2="114.377952755"/>
+          x1="0.55"
+          y1="114.427952755"
+          x2="238.66023622"
+          y2="114.427952755"/>
       <line
           style="fill:none;stroke-dasharray:4,4"
           id="C8A5FC8A"
-          x1="0.500000000001"
-          y1="57.6850393697"
-          x2="238.61023622"
-          y2="57.6850393693"/>
+          x1="0.55"
+          y1="57.7350393693"
+          x2="238.66023622"
+          y2="57.7350393693"/>
       <line
           style="fill:none;stroke-dasharray:4,4"
           id="7DA80D8A"
-          x1="0.500000000001"
-          y1="227.763779527"
-          x2="238.61023622"
-          y2="227.763779527"/>
+          x1="0.55"
+          y1="227.813779527"
+          x2="238.66023622"
+          y2="227.813779527"/>
       <line
           style="fill:none;stroke-dasharray:4,4"
           id="267D7D8A"
-          x1="0.500000000001"
-          y1="171.070866141"
-          x2="238.61023622"
-          y2="171.070866141"/>
+          x1="0.55"
+          y1="171.120866141"
+          x2="238.66023622"
+          y2="171.120866141"/>
       <line
           style="fill:none;stroke-linecap:round;stroke-width:1.984251968504;marker-end:url(#83EA566A_end_arrow)"
           id="83EA566A"
-          x1="125.224409449"
-          y1="0.992125984252"
-          x2="125.224409449"
-          y2="46.3464566926"/>
+          x1="125.274409449"
+          y1="1.042125984252"
+          x2="125.274409449"
+          y2="46.3964566923"/>
       <line
           style="fill:none;stroke:#FB0207;stroke-linecap:round;stroke-width:1.417322834646;marker-end:url(#B9EABD6A_end_arrow)"
           id="B9EABD6A"
-          x1="122.956692913"
-          y1="61.0866141733"
-          x2="63.9960629921"
-          y2="107.574803149"/>
+          x1="123.006692913"
+          y1="61.1366141733"
+          x2="64.046062992"
+          y2="107.624803149"/>
       <text
           id="2358BF8A"
           style="stroke:none"
@@ -104,7 +104,7 @@
           font-size="12"
           font-weight="normal"
           font-style="normal">
-         <tspan x="209.594488189" y="51.6771653543">n = 1</tspan>
+         <tspan x="209.644488189" y="51.7271653543">n = 1</tspan>
       </text>
       <text
           id="2563119A"
@@ -113,7 +113,7 @@
           font-size="12"
           font-weight="normal"
           font-style="normal">
-         <tspan x="209.594488189" y="108.37007874">n = 2</tspan>
+         <tspan x="209.644488189" y="108.42007874">n = 2</tspan>
       </text>
       <text
           id="4F34819A"
@@ -122,7 +122,7 @@
           font-size="12"
           font-weight="normal"
           font-style="normal">
-         <tspan x="209.594488189" y="165.062992125">n = 3</tspan>
+         <tspan x="209.644488189" y="165.112992125">n = 3</tspan>
       </text>
       <text
           id="6D11959A"
@@ -131,73 +131,64 @@
           font-size="12"
           font-weight="normal"
           font-style="normal">
-         <tspan x="130.224409449" y="28.9999999993">p</tspan>
-      </text>
-      <text
-          id="0B0CCD9A"
-          style="fill:#4C4C4C;stroke:none"
-          font-family="Avenir Next"
-          font-size="9"
-          font-weight="normal"
-          font-style="normal">
-         <tspan x="149.5" y="240.16535433">© J. A. Aguilar 2018</tspan>
+         <tspan x="130.274409449" y="29.0499999993">p</tspan>
       </text>
       <line
           style="fill:none;stroke:#FB0207;stroke-linecap:round;stroke-width:1.417322834646;marker-end:url(#B9EABD6A_end_arrow)"
           id="154391BA"
-          x1="122.956692913"
-          y1="61.0866141733"
-          x2="74.2007874015"
-          y2="107.574803149"/>
+          x1="123.006692913"
+          y1="61.1366141733"
+          x2="74.250787401"
+          y2="107.624803149"/>
       <line
           style="fill:none;stroke:#FB0207;stroke-linecap:round;stroke-width:1.417322834646;marker-end:url(#B9EABD6A_end_arrow)"
           id="0BEDD1BA"
-          x1="122.956692913"
-          y1="61.0866141733"
-          x2="85.5393700787"
-          y2="107.574803149"/>
+          x1="123.006692913"
+          y1="61.1366141733"
+          x2="85.589370079"
+          y2="107.624803149"/>
       <line
           style="fill:none;stroke:#FB0207;stroke-linecap:round;stroke-width:1.417322834646;marker-end:url(#B9EABD6A_end_arrow)"
           id="7EC1A2BA"
-          x1="122.956692913"
-          y1="61.0866141733"
-          x2="51.5236220474"
-          y2="108.708661417"/>
+          x1="123.006692913"
+          y1="61.1366141733"
+          x2="51.573622047"
+          y2="108.758661417"/>
       <line
           style="fill:none;stroke:#FB0207;stroke-linecap:round;stroke-width:1.417322834646;marker-end:url(#B9EABD6A_end_arrow)"
           id="5A1E53BA"
-          x1="122.956692913"
-          y1="61.0866141733"
-          x2="96.8779527559"
-          y2="106.440944881"/>
+          x1="123.006692913"
+          y1="61.1366141733"
+          x2="96.927952756"
+          y2="106.490944881"/>
       <line
           style="fill:none;stroke:#FB0207;stroke-linecap:round;stroke-width:1.417322834646;stroke-dasharray:4,4;marker-end:url(#B9EABD6A_end_arrow)"
           id="F44BC3BA"
-          x1="127.492125984"
-          y1="61.0866141733"
-          x2="150.736220473"
-          y2="87.1653543303"/>
+          x1="127.542125984"
+          y1="61.1366141733"
+          x2="150.786220473"
+          y2="87.2153543303"/>
       <line
           style="fill:none;stroke:#FB0207;stroke-linecap:round;stroke-width:1.417322834646;stroke-dasharray:4,4;marker-end:url(#B9EABD6A_end_arrow)"
           id="F3F914BA"
-          x1="127.492125984"
-          y1="61.0866141733"
-          x2="163.775590551"
-          y2="87.1653543303"/>
+          x1="127.542125984"
+          y1="61.1366141733"
+          x2="163.825590551"
+          y2="87.2153543303"/>
       <line
           style="fill:none;stroke:#FB0207;stroke-linecap:round;stroke-width:1.417322834646;stroke-dasharray:4,4;marker-end:url(#B9EABD6A_end_arrow)"
           id="90CC74BA"
-          x1="127.492125984"
-          y1="61.0866141733"
-          x2="177.381889764"
-          y2="87.1653543303"/>
+          x1="127.542125984"
+          y1="61.1366141733"
+          x2="177.431889764"
+          y2="87.2153543303"/>
       <line
           style="fill:none;stroke:#FB0207;stroke-linecap:round;stroke-width:1.417322834646;marker-end:url(#B9EABD6A_end_arrow)"
           id="4F74AABA"
-          x1="122.956692913"
-          y1="61.0866141733"
-          x2="40.1850393703"
-          y2="108.708661417"/>
+          x1="123.006692913"
+          y1="61.1366141733"
+          x2="40.23503937"
+          y2="108.758661417"/>
       <text
           id="209043CA"
           style="stroke:none"
@@ -205,7 +196,7 @@
           font-size="12"
           font-weight="normal"
           font-style="normal">
-         <tspan x="209.594488189" y="221.755905511">n = 4</tspan>
+         <tspan x="209.644488189" y="221.805905511">n = 4</tspan>
       </text>
       <text
           id="E7D15BFA"
@@ -214,7 +205,7 @@
           font-size="14"
           font-weight="normal"
           font-style="normal">
-         <tspan x="158.570866142" y="70.6850393698">𝝅</tspan>
+         <tspan x="158.620866142" y="70.7350393703">𝝅</tspan>
       </text>
       <text
           id="08D15BFA"
@@ -223,8 +214,8 @@
           font-size="14"
           font-weight="bold"
           font-style="normal"
-          transform="matrix(0.439553244196,0,0,0.439553244196,93.6938999677,34.2357947362)">
-         <tspan x="172.177165355" y="73.0866141728">0</tspan>
+          transform="matrix(0.439553244196,0,0,0.439553244196,93.7219223055,34.2638170742)">
+         <tspan x="172.227165355" y="73.1366141733">0</tspan>
       </text>
       <text
           id="63413FFA"
@@ -233,7 +224,7 @@
           font-size="14"
           font-weight="normal"
           font-style="normal">
-         <tspan x="59.9251968504" y="71.8188976374">𝝅</tspan>
+         <tspan x="59.97519685" y="71.8688976373">𝝅</tspan>
       </text>
       <text
           id="73413FFA"
@@ -242,8 +233,8 @@
           font-size="14"
           font-weight="bold"
           font-style="normal"
-          transform="matrix(0.439553244196,0,0,0.439553244196,38.4082546391,34.8712619238)">
-         <tspan x="73.5314960634" y="74.2204724404">-</tspan>
+          transform="matrix(0.439553244196,0,0,0.439553244196,38.4362769767,34.8992842615)">
+         <tspan x="73.581496063" y="74.2704724403">-</tspan>
       </text>
       <text
           id="EFF6200B"
@@ -252,7 +243,7 @@
           font-size="14"
           font-weight="normal"
           font-style="normal">
-         <tspan x="76.9330708661" y="71.8188976374">𝝅</tspan>
+         <tspan x="76.983070866" y="71.8688976373">𝝅</tspan>
       </text>
       <text
           id="FFF6200B"
@@ -261,78 +252,78 @@
           font-size="14"
           font-weight="bold"
           font-style="normal"
-          transform="matrix(0.439553244196,0,0,0.439553244196,47.9402624544,34.8712619238)">
-         <tspan x="90.5393700791" y="74.2204724404">+</tspan>
+          transform="matrix(0.439553244196,0,0,0.439553244196,47.9682847921,34.8992842615)">
+         <tspan x="90.589370079" y="74.2704724403">+</tspan>
       </text>
       <line
           style="fill:none;stroke:#FB0207;stroke-linecap:round;stroke-width:1.417322834646;marker-end:url(#B9EABD6A_end_arrow)"
           id="8F34F20B"
-          x1="81.0039370076"
-          y1="116.645669291"
-          x2="22.0433070866"
-          y2="163.133858267"/>
+          x1="81.053937007"
+          y1="116.695669291"
+          x2="22.093307086"
+          y2="163.183858267"/>
       <line
           style="fill:none;stroke:#FB0207;stroke-linecap:round;stroke-width:1.417322834646;marker-end:url(#B9EABD6A_end_arrow)"
           id="9F34F20B"
-          x1="81.003937008"
-          y1="116.645669291"
-          x2="32.248031496"
-          y2="163.133858267"/>
+          x1="81.053937008"
+          y1="116.695669291"
+          x2="32.298031496"
+          y2="163.183858267"/>
       <line
           style="fill:none;stroke:#FB0207;stroke-linecap:round;stroke-width:1.417322834646;marker-end:url(#B9EABD6A_end_arrow)"
           id="AF34F20B"
-          x1="81.0039370072"
-          y1="116.645669291"
-          x2="43.5866141732"
-          y2="163.133858267"/>
+          x1="81.053937007"
+          y1="116.695669291"
+          x2="43.636614173"
+          y2="163.183858267"/>
       <line
           style="fill:none;stroke:#FB0207;stroke-linecap:round;stroke-width:1.417322834646;marker-end:url(#B9EABD6A_end_arrow)"
           id="BF34F20B"
-          x1="81.0039370074"
-          y1="116.645669291"
-          x2="54.9251968504"
-          y2="161.999999999"/>
+          x1="81.053937007"
+          y1="116.695669291"
+          x2="54.97519685"
+          y2="162.049999999"/>
       <line
           style="fill:none;stroke:#FB0207;stroke-linecap:round;stroke-width:1.417322834646;marker-end:url(#B9EABD6A_end_arrow)"
           id="8326730B"
-          x1="51.5236220466"
-          y1="173.338582677"
-          x2="14.1062992126"
-          y2="219.826771653"/>
+          x1="51.573622046"
+          y1="173.388582676"
+          x2="14.156299212"
+          y2="219.876771652"/>
       <line
           style="fill:none;stroke:#FB0207;stroke-linecap:round;stroke-width:1.417322834646;marker-end:url(#B9EABD6A_end_arrow)"
           id="A326730B"
-          x1="51.5236220468"
-          y1="173.338582677"
-          x2="25.4448818898"
-          y2="218.692913385"/>
+          x1="51.573622047"
+          y1="173.388582676"
+          x2="25.49488189"
+          y2="218.742913384"/>
       <line
           style="fill:none;stroke:#FB0207;stroke-linecap:round;stroke-width:1.417322834646;stroke-dasharray:4,4;marker-end:url(#B9EABD6A_end_arrow)"
           id="DE48E30B"
-          x1="81.0039370078"
-          y1="116.645669291"
-          x2="104.248031497"
-          y2="142.724409448"/>
+          x1="81.053937008"
+          y1="116.695669291"
+          x2="104.298031497"
+          y2="142.774409448"/>
       <line
           style="fill:none;stroke:#FB0207;stroke-linecap:round;stroke-width:1.417322834646;stroke-dasharray:4,4;marker-end:url(#B9EABD6A_end_arrow)"
           id="EE48E30B"
-          x1="81.0039370078"
-          y1="116.645669291"
-          x2="117.287401575"
-          y2="142.724409448"/>
+          x1="81.053937008"
+          y1="116.695669291"
+          x2="117.337401575"
+          y2="142.774409448"/>
       <line
           style="fill:none;stroke:#FB0207;stroke-linecap:round;stroke-width:1.417322834646;stroke-dasharray:4,4;marker-end:url(#B9EABD6A_end_arrow)"
           id="5099340B"
-          x1="51.5236220472"
-          y1="173.338582677"
-          x2="74.7677165362"
-          y2="199.417322834"/>
+          x1="51.573622047"
+          y1="173.388582676"
+          x2="74.817716536"
+          y2="199.467322833"/>
       <line
           style="fill:none;stroke:#FB0207;stroke-linecap:round;stroke-width:1.417322834646;stroke-dasharray:4,4;marker-end:url(#B9EABD6A_end_arrow)"
           id="7099340B"
-          x1="51.5236220472"
-          y1="173.338582677"
-          x2="87.8070866142"
-          y2="199.417322834"/>
+          x1="51.573622047"
+          y1="173.388582676"
+          x2="87.857086614"
+          y2="199.467322833"/>
    </g>
 </svg>
