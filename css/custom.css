@@ -12,7 +12,6 @@
 
 body {
   counter-reset: figcounter !important; /*This doesnt work, its overiden. I had to create a new template, print.tpl*/
-
 }
 
 @font-face {
@@ -60,11 +59,9 @@ body {
 }
 
 .text_cell_render h1 {
-
-
     font-family: 'Alegreya Sans', sans-serif;
     font-style:regular;
-    font-weight: 200;
+    font-weight: 500;
     font-size: 40pt;
     line-height: 100%;
     color: rgb(12,85,97);
@@ -179,7 +176,6 @@ margin-top:0.4em;
        .text_cell_render h1 {
            font-family: 'Alegreya Sans', sans-serif;
            font-style:regular;
-           font-weight: 300;
            font-size: 30pt;
            line-height: 100%;
            color: black;
