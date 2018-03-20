@@ -10,12 +10,12 @@
     xmlns:xlink="http://www.w3.org/1999/xlink"
     xmlns="http://www.w3.org/2000/svg"
     width="501.123620936"
-    height="165.422440945"
-    viewBox="0, 0, 501.123620936, 165.422440945"
+    height="212.183901564"
+    viewBox="0, 0, 501.123620936, 212.183901564"
     preserveAspectRatio="none"
     id="svg2">
    <defs
-       id="defs_B1732BBB">
+       id="defs_974D859C">
       <marker
           orient="auto"
           refX="0.0"
@@ -132,13 +132,12 @@ C111.03273209,58.0589762514 111.703787683,57.7715310676 112.307642505,57.5283878
           y2="164.40944882"/>
       <text
           id="A323762E"
-          style="fill:#0F80FF;stroke:none"
+          style="fill:#0096FF;stroke:none"
           font-family="Cambria Math"
           font-size="24"
           font-weight="normal"
           font-style="normal">
-         <tspan x="125.168110237" y="99.7007874015">Z</tspan>
-         <tspan>0</tspan>
+         <tspan x="128.236103078" y="97.9576717328">Z</tspan>
       </text>
       <text
           id="1CFBB62E"
@@ -232,7 +231,7 @@ C383.15871523,58.0589762514 383.829770823,57.7715310676 384.433625645,57.5283878
       </text>
       <text
           id="86F825AC"
-          style="fill:#0F80FF;stroke:none"
+          style="fill:#0096FF;stroke:none"
           font-family="Cambria Math"
           font-size="24"
           font-weight="normal"
@@ -282,7 +281,7 @@ C383.15871523,58.0589762514 383.829770823,57.7715310676 384.433625645,57.5283878
           font-size="24"
           font-weight="normal"
           font-style="normal">
-         <tspan x="34.4594488192" y="28.6692913389">𝝂</tspan>
+         <tspan x="34.459448819" y="28.6692913389">𝝂</tspan>
       </text>
       <text
           id="48925ABB"
@@ -291,7 +290,7 @@ C383.15871523,58.0589762514 383.829770823,57.7715310676 384.433625645,57.5283878
           font-size="15"
           font-weight="normal"
           font-style="normal">
-         <tspan x="45.7980326082" y="31.0078740163">𝝁</tspan>
+         <tspan x="45.798032608" y="31.0078740165">𝝁</tspan>
       </text>
       <text
           id="75C18ABB"
@@ -309,7 +308,25 @@ C383.15871523,58.0589762514 383.829770823,57.7715310676 384.433625645,57.5283878
           font-size="15"
           font-weight="normal"
           font-style="normal">
-         <tspan x="187.530316073" y="31.0078740163">𝝁</tspan>
+         <tspan x="187.530316073" y="31.0078740165">𝝁</tspan>
+      </text>
+      <text
+          id="A05DE29C"
+          style="fill:#0096FF;stroke:none"
+          font-family="Cambria Math"
+          font-size="14"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="142.175984252" y="86.7007874019">0</tspan>
+      </text>
+      <text
+          id="46E4C49C"
+          style="fill:#A9A9A9;stroke:none"
+          font-family="Helvetica Neue"
+          font-size="9"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="155.267550037" y="178.664216524">J. A. Aguilar 2018</tspan>
       </text>
    </g>
 </svg>

@@ -2,20 +2,20 @@
 <!-- Created with EazyDraw for Mac ( http://www.eazydraw.com/ ) -->
 
 <svg
-    version="1.0"
+    version="1.1"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
     xmlns:cc="http://creativecommons.org/ns#"
     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
     xmlns:svg="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink"
     xmlns="http://www.w3.org/2000/svg"
-    width="536.464566929"
+    width="581.251968504"
     height="405.354330709"
-    viewBox="0, 0, 536.464566929, 405.354330709"
+    viewBox="0, 0, 581.251968504, 405.354330709"
     preserveAspectRatio="none"
     id="svg2">
    <defs
-       id="defs_D68F0D9C">
+       id="defs_3AAB617B">
       <marker
           orient="auto"
           refX="0.0"
@@ -918,7 +918,8 @@ C210.545142773,181.271944726 210.506155226,181.661258344 210.491295864,181.92031
           font-size="14"
           font-weight="normal"
           font-style="normal">
-         <tspan x="238.610502584" y="74.3622047243">air molecule</tspan>
+         <tspan x="276.715913817" y="57.3543307088">air </tspan>
+         <tspan x="248.110249754" y="73.3543307088">molecule</tspan>
       </text>
       <text
           id="8C46206F"
@@ -1070,8 +1071,8 @@ C210.545142773,181.271944726 210.506155226,181.661258344 210.491295864,181.92031
           font-size="12"
           font-weight="normal"
           font-style="normal"
-          transform="matrix(0.456731144706,0.889604778234,-0.889604778234,0.456731144706,366.645139597,-242.433514736)">
-         <tspan x="344.339402042" y="181.467914846">prompt neutrinos</tspan>
+          transform="matrix(0.456731144706,0.889604778234,-0.889604778234,0.456731144706,346.885516722,-244.603439401)">
+         <tspan x="336.236220473" y="164.20472441">prompt neutrinos</tspan>
       </text>
       <text
           id="99393F5D"
@@ -1291,6 +1292,15 @@ C210.545142773,181.271944726 210.506155226,181.661258344 210.491295864,181.92031
           font-style="normal"
           transform="matrix(0.439553244196,0,0,0.439553244196,220.590960491,62.9112515808)">
          <tspan x="398.598425197" y="124.251968504">+</tspan>
+      </text>
+      <text
+          id="2F9DFE6B"
+          style="fill:#999999;stroke:none"
+          font-family="Helvetica Neue"
+          font-size="9"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="441.68503937" y="348.023622048">J. A. Aguilar 2018</tspan>
       </text>
    </g>
 </svg>

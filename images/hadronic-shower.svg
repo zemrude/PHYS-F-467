@@ -9,13 +9,13 @@
     xmlns:svg="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink"
     xmlns="http://www.w3.org/2000/svg"
-    width="251.132677168"
-    height="230.081496062"
-    viewBox="0, 0, 251.132677168, 230.081496062"
+    width="303.857086614"
+    height="276.002755905"
+    viewBox="0, 0, 303.857086614, 276.002755905"
     preserveAspectRatio="none"
     id="svg2">
    <defs
-       id="defs_F6283ADC">
+       id="defs_DAA3DFAB">
       <marker
           orient="auto"
           refX="0.0"
@@ -100,7 +100,7 @@
       <text
           id="2358BF8A"
           style="stroke:none"
-          font-family="Helvetica"
+          font-family="Cambria Math"
           font-size="12"
           font-weight="normal"
           font-style="normal">
@@ -109,7 +109,7 @@
       <text
           id="2563119A"
           style="stroke:none"
-          font-family="Helvetica"
+          font-family="Cambria Math"
           font-size="12"
           font-weight="normal"
           font-style="normal">
@@ -118,7 +118,7 @@
       <text
           id="4F34819A"
           style="stroke:none"
-          font-family="Helvetica"
+          font-family="Cambria Math"
           font-size="12"
           font-weight="normal"
           font-style="normal">
@@ -192,7 +192,7 @@
       <text
           id="209043CA"
           style="stroke:none"
-          font-family="Helvetica"
+          font-family="Cambria Math"
           font-size="12"
           font-weight="normal"
           font-style="normal">
@@ -200,7 +200,7 @@
       </text>
       <text
           id="E7D15BFA"
-          style="fill:#FB0207;stroke:none"
+          style="fill:#FF2600;stroke:none"
           font-family="Cambria Math"
           font-size="14"
           font-weight="normal"
@@ -209,7 +209,7 @@
       </text>
       <text
           id="08D15BFA"
-          style="fill:#FB0207;stroke:none"
+          style="fill:#FF2600;stroke:none"
           font-family="Times New Roman"
           font-size="14"
           font-weight="bold"
@@ -219,7 +219,7 @@
       </text>
       <text
           id="63413FFA"
-          style="fill:#FB0207;stroke:none"
+          style="fill:#FF2600;stroke:none"
           font-family="Cambria Math"
           font-size="14"
           font-weight="normal"
@@ -228,7 +228,7 @@
       </text>
       <text
           id="73413FFA"
-          style="fill:#FB0207;stroke:none"
+          style="fill:#FF2600;stroke:none"
           font-family="Times New Roman"
           font-size="14"
           font-weight="bold"
@@ -238,7 +238,7 @@
       </text>
       <text
           id="EFF6200B"
-          style="fill:#FB0207;stroke:none"
+          style="fill:#FF2600;stroke:none"
           font-family="Cambria Math"
           font-size="14"
           font-weight="normal"
@@ -247,7 +247,7 @@
       </text>
       <text
           id="FFF6200B"
-          style="fill:#FB0207;stroke:none"
+          style="fill:#FF2600;stroke:none"
           font-family="Times New Roman"
           font-size="14"
           font-weight="bold"
@@ -325,5 +325,14 @@
           y1="173.388582676"
           x2="87.857086614"
           y2="199.467322833"/>
+      <text
+          id="B48E1EAB"
+          style="fill:#A9A9A9;stroke:none"
+          font-family="Helvetica Neue"
+          font-size="9"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="164.29015748" y="242.483070866">J. A. Aguilar 2018</tspan>
+      </text>
    </g>
 </svg>
