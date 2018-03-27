@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with EazyDraw for Mac ( http://www.eazydraw.com/ ) -->
+
+<svg
+    version="1.1"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns="http://www.w3.org/2000/svg"
+    width="425.35855315"
+    height="307.222292214"
+    viewBox="0, 0, 425.35855315, 307.222292214"
+    preserveAspectRatio="none"
+    id="svg2">
+   <defs
+       id="defs_681895FD">
+      <marker
+          orient="auto"
+          refX="0.0"
+          refY="0.0"
+          id="544AB74B_end_arrow"
+          style="overflow:visible"
+          markerUnits="userSpaceOnUse">
+         <path
+             id="544AB74B_end_arrow_path"
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;fill-rule:nonzero;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.25;stroke-miterlimit:10"
+             d="M0,0 L-7.517540966287,2.736161146605 L-7.517540966287,-2.736161146605 z"/>
+      </marker>
+      <marker
+          orient="auto"
+          refX="0.0"
+          refY="0.0"
+          id="94986D4B_start_arrow"
+          style="overflow:visible"
+          markerUnits="userSpaceOnUse">
+         <path
+             id="94986D4B_start_arrow_path"
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;fill-rule:nonzero;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.25;stroke-miterlimit:10"
+             d="M0,0 L7.517540966287,-2.736161146605 C5.011192808127,-1.823925020327 5.011192808127,1.823925020327 7.517540966287,2.736161146605 z"/>
+      </marker>
+      <marker
+          orient="auto"
+          refX="0.0"
+          refY="0.0"
+          id="94986D4B_end_arrow"
+          style="overflow:visible"
+          markerUnits="userSpaceOnUse">
+         <path
+             id="94986D4B_end_arrow_path"
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;fill-rule:nonzero;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.25;stroke-miterlimit:10"
+             d="M0,0 L-7.517540966287,2.736161146605 C-5.011192808127,1.823925020327 -5.011192808127,-1.823925020327 -7.517540966287,-2.736161146605 z"/>
+      </marker>
+      <marker
+          orient="auto"
+          refX="0.0"
+          refY="0.0"
+          id="5D83954B_end_arrow"
+          style="overflow:visible"
+          markerUnits="userSpaceOnUse">
+         <path
+             id="5D83954B_end_arrow_path"
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;fill-rule:nonzero;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.25;stroke-miterlimit:10"
+             d="M5.850694160762,0 L-1.666846805525,2.736161146605 L-1.666846805525,-2.736161146605 z"/>
+      </marker>
+      <marker
+          orient="auto"
+          refX="0.0"
+          refY="0.0"
+          id="472D695B_start_arrow"
+          style="overflow:visible"
+          markerUnits="userSpaceOnUse">
+         <path
+             id="472D695B_start_arrow_path"
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;fill-rule:nonzero;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.25;stroke-miterlimit:10"
+             d="M1.568969866075,-1.568969866075 C2.435487996052,-0.702451736098 2.435487996052,0.702451736098 1.568969866075,1.568969866075 C0.702451736098,2.435487996052 -0.702451736098,2.435487996052 -1.568969866075,1.568969866075
+C-2.435487996052,0.702451736098 -2.435487996052,-0.702451736098 -1.568969866075,-1.568969866075 C-0.702451736098,-2.435487996052 0.702451736098,-2.435487996052 1.568969866075,-1.568969866075"/>
+      </marker>
+   </defs>
+   <metadata
+       id="metadata7">
+      <rdf:RDF>
+         <cc:Work
+             rdf:about="">
+            <dc:format>image/svg+xml</dc:format>
+            <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+            <dc:title></dc:title>
+         </cc:Work>
+      </rdf:RDF>
+   </metadata>
+   <g
+       id="layer_Paper"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;fill-rule:nonzero;stroke-linecap:square;stroke-linejoin:miter;stroke-width:1;stroke-miterlimit:10">
+      <g
+          id="3233B34B"
+          transform="matrix(0.999576159982,-0.029111860034,0.029111860034,0.999576159982,-6.740839795126,3.156189622448)">
+         <path
+             style="fill:#808080;stroke-width:0.5"
+             id="BCB7D83B"
+             d="M50.8301714304,191.28572972 C71.4231031548,218.777433702 92.0160348793,246.269137684 112.608966604,273.760841665 C137.579377747,255.056509182 152.731282826,226.046348329 153.815332856,194.866253366 C119.486945714,193.672745484 85.1585585722,192.479237602 50.8301714304,191.28572972
+z"/>
+         <ellipse
+             style="fill:#EBFFED;stroke-width:0.5"
+             id="749C9A3B"
+             cx="144.046008372"
+             cy="-229.012975123"
+             rx="44.6448930588"
+             ry="15.1081518244"
+             transform="matrix(-0.470376817504,0.882465664802,-0.882465664802,-0.470376817504,0,0)"/>
+      </g>
+      <g
+          id="DE43C34B"
+          transform="matrix(0.599011985011,-0.800740058829,0.800740058829,0.599011985011,-37.9718759241,274.297303703)">
+         <path
+             style="fill:#808080;stroke-width:0.5"
+             id="BE43C34B"
+             d="M200.696258964,133.269103496 C221.289190688,160.760807478 241.882122412,188.252511459 262.475054137,215.744215441 C287.44546528,197.039882958 302.597370359,168.029722104 303.681420389,136.849627142 C269.353033247,135.65611926 235.024646105,134.462611378 200.696258964,133.269103496
+z"/>
+         <ellipse
+             style="fill:#EBFFED;stroke-width:0.5"
+             id="CE43C34B"
+             cx="22.3547944342"
+             cy="-333.974975684"
+             rx="44.6448930588"
+             ry="15.1081518244"
+             transform="matrix(-0.470376817508,0.8824656648,-0.8824656648,-0.470376817508,0,0)"/>
+      </g>
+      <text
+          id="F6FEEB2A"
+          style="stroke:none"
+          font-family="Cambria Math"
+          font-size="18"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="86.0426120588" y="115.755556069">r</tspan>
+      </text>
+      <text
+          id="16E15C2A"
+          style="stroke:none"
+          font-family="Cambria Math"
+          font-size="12"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="361.434134807" y="196.356923949">Observer</tspan>
+      </text>
+      <circle
+          id="8D1AFC6A"
+          cx="50.4028949502"
+          cy="193.844485423"
+          r="4.056657447382"/>
+      <text
+          id="5A4CC67A"
+          style="fill:#A9A9A9;stroke:none"
+          font-family="Helvetica Neue"
+          font-size="9"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="200.440689049" y="217.651957399">J. A. Aguilar 2018</tspan>
+      </text>
+      <text
+          id="42E05C9A"
+          style="stroke:none"
+          font-family="Cambria Math"
+          font-size="12"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="91.7014625088" y="122.465548286">gyr</tspan>
+      </text>
+      <text
+          id="23BBCE9A"
+          style="stroke:none"
+          font-family="Cambria Math"
+          font-size="18"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="106.967289788" y="71.6474890531">Δθ</tspan>
+      </text>
+      <path
+          style="fill:none"
+          id="9E38882B"
+          d="M117.990668271,0.921723397811 C78.9092335941,56.7357964323 39.8277989172,112.549869467 0.74636424032,168.363942501 C71.138802761,217.653258586 164.842533781,217.653258586 235.234972302,168.363942501 C196.153537625,112.549869467 157.072102948,56.7357964323 117.990668271,0.921723397811
+z"/>
+      <line
+          style="fill:none;stroke-dasharray:6,6"
+          id="367B433B"
+          x1="117.990668271"
+          y1="0.921723397811"
+          x2="49.0049368825"
+          y2="193.266546455"/>
+      <line
+          style="fill:none;stroke-dasharray:6,6"
+          id="882E833B"
+          x1="117.990668271"
+          y1="0.921723397811"
+          x2="186.97639966"
+          y2="193.266546455"/>
+      <circle
+          id="536A043B"
+          cx="186.97639966"
+          cy="193.266546455"
+          r="4.056657447327"/>
+      <path
+          style="fill:none;stroke-linecap:butt;stroke-dasharray:1,1.714120388031"
+          id="531B00FD"
+          d="M39.5075013927,189.895791787 C30.9185119413,215.630621011 64.5375613897,222.138776399 49.0049368825,193.266546455 C48.9315259686,193.130089362 48.9461510652,193.267462528 49.0049368825,193.266546455 C94.5611490085,192.556633358 139.991248086,211.031258833 125.694982545,234.466556952
+C110.212862836,259.845778533 76.0510121328,225.522355763 49.0049368825,193.266546455 C48.9314560593,193.178911432 48.9573597326,193.086627677 49.0767740206,193.066251389 C77.9156390052,188.145324211 52.1824914192,163.038564804 39.3992325409,189.791198825"/>
+      <line
+          style="fill:none;marker-end:url(#544AB74B_end_arrow)"
+          id="544AB74B"
+          x1="49.0767740206"
+          y1="193.066251389"
+          x2="353.792526215"
+          y2="193.066251389"/>
+      <path
+          style="fill:none;marker-start:url(#94986D4B_start_arrow);marker-end:url(#94986D4B_end_arrow)"
+          id="94986D4B"
+          d="M102.936338043,49.6655872039 C112.767961091,52.7718532227 123.335617329,52.650379677 133.093239944,49.3189383615"/>
+      <g
+          id="8C1ADB5B">
+         <line
+             style="fill:none;marker-end:url(#5D83954B_end_arrow)"
+             id="5D83954B"
+             x1="134.340184348"
+             y1="234.838050945"
+             x2="187.780717032"
+             y2="262.893722698"/>
+         <line
+             style="fill:none;marker-start:url(#472D695B_start_arrow)"
+             id="472D695B"
+             x1="134.340184348"
+             y1="234.838050945"
+             x2="187.780717032"
+             y2="262.893722698"/>
+      </g>
+      <g
+          id="F0CCEB5B"
+          transform="matrix(0.528348180643,-0.84902779696,0.84902779696,0.528348180643,27.0427569838,322.37934295)">
+         <line
+             style="fill:none;marker-end:url(#5D83954B_end_arrow)"
+             id="D0CCEB5B"
+             x1="275.778585028"
+             y1="121.353571103"
+             x2="331.584255749"
+             y2="152.345683181"/>
+         <line
+             style="fill:none;marker-start:url(#472D695B_start_arrow)"
+             id="E0CCEB5B"
+             x1="275.778585028"
+             y1="121.353571103"
+             x2="331.584255749"
+             y2="152.345683181"/>
+      </g>
+      <text
+          id="29FD0D5B"
+          style="stroke:none"
+          font-family="Cambria Math"
+          font-size="18"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="141.828236287" y="277.582564118">1/γ</tspan>
+      </text>
+      <line
+          style="fill:none"
+          id="CE486E5B"
+          x1="122.319631156"
+          y1="280.58634342"
+          x2="145.680689512"
+          y2="306.566179285"/>
+      <text
+          id="2262006B"
+          style="stroke:none"
+          font-family="Cambria Math"
+          font-size="18"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="61.4321820687" y="182.248066412">A</tspan>
+      </text>
+      <text
+          id="276B406B"
+          style="stroke:none"
+          font-family="Cambria Math"
+          font-size="18"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="160.340107063" y="181.062669529">B</tspan>
+      </text>
+   </g>
+</svg>

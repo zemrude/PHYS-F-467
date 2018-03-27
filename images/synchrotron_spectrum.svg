@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with EazyDraw for Mac ( http://www.eazydraw.com/ ) -->
+
+<svg
+    version="1.1"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns="http://www.w3.org/2000/svg"
+    width="402.519685047"
+    height="184.251968508"
+    viewBox="0, 0, 402.519685047, 184.251968508"
+    preserveAspectRatio="none"
+    id="svg2">
+   <defs
+       id="defs_EC3C9371">
+      <marker
+          orient="auto"
+          refX="0.0"
+          refY="0.0"
+          id="B169016E_start_arrow"
+          style="overflow:visible"
+          markerUnits="userSpaceOnUse">
+         <path
+             id="B169016E_start_arrow_path"
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;fill-rule:nonzero;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.5;stroke-miterlimit:10"
+             d="M-5.729166691697,0 L1.78837427459,-2.736161146605 L-1.083070857687,0 L1.78837427459,2.736161146605 z"/>
+      </marker>
+      <marker
+          orient="auto"
+          refX="0.0"
+          refY="0.0"
+          id="B169016E_end_arrow"
+          style="overflow:visible"
+          markerUnits="userSpaceOnUse">
+         <path
+             id="B169016E_end_arrow_path"
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;fill-rule:nonzero;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.5;stroke-miterlimit:10"
+             d="M5.729166691697,0 L-1.78837427459,2.736161146605 L1.083070857687,0 L-1.78837427459,-2.736161146605 z"/>
+      </marker>
+   </defs>
+   <metadata
+       id="metadata7">
+      <rdf:RDF>
+         <cc:Work
+             rdf:about="">
+            <dc:format>image/svg+xml</dc:format>
+            <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+            <dc:title></dc:title>
+         </cc:Work>
+      </rdf:RDF>
+   </metadata>
+   <g
+       id="layer_Paper"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;fill-rule:nonzero;stroke-linecap:square;stroke-linejoin:miter;stroke-width:1;stroke-miterlimit:10">
+      <path
+          id="C8781BDA_join"
+          d=""/>
+      <polyline
+          style="fill:none;stroke-width:2;marker-start:url(#B169016E_start_arrow);marker-end:url(#B169016E_end_arrow)"
+          id="B169016E"
+          points="28.3464566929,31.1811023659 28.3464566929,121.889763783 170.078740158,121.889763783"/>
+      <path
+          style="fill:none;stroke:#0F80FF;stroke-width:2"
+          id="ABC68E6E"
+          d="M34.0157480319,116.220472444 C111.376545209,26.3694482908 132.980633846,-21.9708848193 170.078740158,116.220472444"/>
+      <path
+          style="fill:none;stroke:#0F80FF;stroke-width:2"
+          id="B5490A7E"
+          d="M246.614173228,109.511604934 C298.952581742,48.7268711171 313.56881707,16.0243581687 338.667522281,109.511604934"/>
+      <polyline
+          style="fill:none;stroke-width:2;marker-start:url(#B169016E_start_arrow);marker-end:url(#B169016E_end_arrow)"
+          id="92986A7E"
+          points="212.598425197,19.8425196888 212.598425197,138.897637799 385.511811023,138.897637799"/>
+      <path
+          style="fill:none;stroke:#0F80FF;stroke-width:2"
+          id="515B2B7E"
+          d="M260.787401575,118.015541942 C313.125810089,57.2308081252 327.742045417,24.5282951762 352.840750628,118.015541942"/>
+      <path
+          style="fill:none;stroke:#0F80FF;stroke-width:2"
+          id="C8747B7E"
+          d="M274.960629921,126.51947895 C327.299038435,65.7347451331 341.915273763,33.0322321841 367.013978974,126.51947895"/>
+      <path
+          style="fill:none;stroke:#0F80FF;stroke-width:2"
+          id="3E22AB7E"
+          d="M232.440944882,101.007667926 C284.779353396,40.2229341095 299.395588724,7.520421160491 324.494293935,101.007667926"/>
+      <path
+          style="fill:none;stroke:#0F80FF;stroke-width:2"
+          id="7F344C7E"
+          d="M221.102362205,92.5037309186 C273.440770719,31.7189971016 288.057006047,-0.983515847379 313.155711258,92.5037309186"/>
+      <line
+          style="fill:none;stroke:#408002;stroke-width:2;stroke-dasharray:5,5"
+          id="07E7FC7E"
+          x1="269.291338583"
+          y1="19.8425196888"
+          x2="380.184278244"
+          y2="83.8665882534"/>
+      <path
+          style="fill:none;stroke:#0F80FF;stroke-width:2"
+          id="D6010E7E"
+          d="M294.803149606,131.114109178 C341.472266782,74.9590905276 356.08850211,42.2565775786 382.677165354,133.948754847"/>
+      <line
+          style="fill:none;stroke-dasharray:4,4"
+          id="00D4728E"
+          x1="124.724409449"
+          y1="31.1811023659"
+          x2="124.724409449"
+          y2="121.889763783"/>
+      <text
+          id="DD6EC0BE"
+          style="stroke:none"
+          font-family="Cambria Math"
+          font-size="18"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="339.488188976" y="155.897637799">log   ν</tspan>
+      </text>
+      <text
+          id="DBB1E1BE"
+          style="stroke:none"
+          font-family="Cambria Math"
+          font-size="12"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="362.165354331" y="161.236220476">10</tspan>
+      </text>
+      <text
+          id="0B34A2BE"
+          style="stroke:none"
+          font-family="Cambria Math"
+          font-size="18"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="124.05511811" y="138.889763783">log   ν</tspan>
+      </text>
+      <text
+          id="3B34A2BE"
+          style="stroke:none"
+          font-family="Cambria Math"
+          font-size="12"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="146.732283464" y="144.22834646">10</tspan>
+      </text>
+      <g
+          id="214815BE">
+         <g
+             id="1A12C4BE">
+            <path
+                style="stroke-width:0.5"
+                id="F203A3BE"
+                d="M196.295031643,75.7770877842 C196.295031643,75.7770877842 196.295031643,76.6587742331 196.295031643,76.6587742331 C176.946653577,76.6587742331 168.151936274,88.7926779429 168.151936274,93.4108167622 C168.151936274,88.5492956481 176.946653577,75.7770877842 196.295031643,75.7770877842"/>
+            <path
+                style="fill:#0F80FF;stroke-width:0.5"
+                id="1303A3BE"
+                d="M196.295031643,75.7770877842 C176.946653577,75.7770877842 168.151936274,88.5492956481 168.151936274,93.4108167622 C167.797310677,93.4108167622 167.598720085,93.4108167622 167.244094488,93.4108167622 C167.244094488,86.6037686811 176.322512349,68.723596193 196.295031643,68.723596193
+L196.295031643,65.1968503974 L203.557765931,72.2503419886 L196.295031643,79.3038335798 L196.295031643,75.7770877842"/>
+         </g>
+         <polyline
+             style="stroke-width:0.5"
+             id="2303A3BE"
+             points="196.295031643,79.3038335798 196.295031643,80.1855200287 203.557765931,73.1320284375 203.557765931,72.2503419886 196.295031643,79.3038335798"/>
+      </g>
+      <g
+          id="D4B1E071"
+          transform="matrix(-0,-1,1,-0,-28.3464567004,68.0314960703)">
+         <text
+             id="310B0071"
+             style="stroke:none"
+             font-family="Cambria Math"
+             font-size="18"
+             font-weight="normal"
+             font-style="normal">
+            <tspan x="-9.17322835025" y="45.3464567004">log   P</tspan>
+         </text>
+         <text
+             id="510B0071"
+             style="stroke:none"
+             font-family="Cambria Math"
+             font-size="12"
+             font-weight="normal"
+             font-style="normal">
+            <tspan x="13.5039370038" y="50.6850393774">10</tspan>
+         </text>
+      </g>
+      <g
+          id="DBD93171"
+          transform="matrix(0,-1,1,0,172.913385823,240.944881893)">
+         <text
+             id="ABD93171"
+             style="stroke:none"
+             font-family="Cambria Math"
+             font-size="18"
+             font-weight="normal"
+             font-style="normal">
+            <tspan x="177.913385823" y="31.1732283503">log   P</tspan>
+         </text>
+         <text
+             id="CBD93171"
+             style="stroke:none"
+             font-family="Cambria Math"
+             font-size="12"
+             font-weight="normal"
+             font-style="normal">
+            <tspan x="200.590551177" y="36.5118110272">10</tspan>
+         </text>
+      </g>
+      <text
+          id="573C2271"
+          style="fill:#A9A9A9;stroke:none"
+          font-family="Helvetica Neue"
+          font-size="9"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="27.6771653543" y="150.732283468">J. A. Aguilar 2018</tspan>
+      </text>
+   </g>
+</svg>

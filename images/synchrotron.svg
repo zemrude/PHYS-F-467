@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with EazyDraw for Mac ( http://www.eazydraw.com/ ) -->
+
+<svg
+    version="1.1"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns="http://www.w3.org/2000/svg"
+    width="562.989645052"
+    height="253.758999386"
+    viewBox="0, 0, 562.989645052, 253.758999386"
+    preserveAspectRatio="none"
+    id="svg2">
+   <defs
+       id="defs_A8B93C62">
+      <marker
+          orient="auto"
+          refX="0.0"
+          refY="0.0"
+          id="583FA61A_start_arrow"
+          style="overflow:visible"
+          markerUnits="userSpaceOnUse">
+         <path
+             id="583FA61A_start_arrow_path"
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;fill-rule:nonzero;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.5;stroke-miterlimit:10"
+             d="M0,0 L13.3184780899,-4.847529590457 C8.87809749474,-3.231363224999 8.87809749474,3.231363224999 13.3184780899,4.847529590457 z"/>
+      </marker>
+      <marker
+          orient="auto"
+          refX="0.0"
+          refY="0.0"
+          id="583FA61A_end_arrow"
+          style="overflow:visible"
+          markerUnits="userSpaceOnUse">
+         <path
+             id="583FA61A_end_arrow_path"
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;fill-rule:nonzero;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.5;stroke-miterlimit:10"
+             d="M0,0 L-13.3184780899,4.847529590457 C-8.87809749474,3.231363224999 -8.87809749474,-3.231363224999 -13.3184780899,-4.847529590457 z"/>
+      </marker>
+      <marker
+          orient="auto"
+          refX="0.0"
+          refY="0.0"
+          id="4B6B9F2A_end_arrow"
+          style="overflow:visible"
+          markerUnits="userSpaceOnUse">
+         <path
+             id="4B6B9F2A_end_arrow_path"
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;fill-rule:nonzero;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.25;stroke-miterlimit:10"
+             d="M0,0 L-7.517540966287,2.736161146605 L-7.517540966287,-2.736161146605 z"/>
+      </marker>
+   </defs>
+   <metadata
+       id="metadata7">
+      <rdf:RDF>
+         <cc:Work
+             rdf:about="">
+            <dc:format>image/svg+xml</dc:format>
+            <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+            <dc:title></dc:title>
+         </cc:Work>
+      </rdf:RDF>
+   </metadata>
+   <g
+       id="layer_Paper"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;fill-rule:nonzero;stroke-linecap:square;stroke-linejoin:miter;stroke-width:1;stroke-miterlimit:10">
+      <g id="F2F6C6BE_transform" transform="matrix(0.046836831815,0.998902553398,-0.998902553398,0.046836831815,143.087492034,68.9124436051)">
+         <path
+             style="fill:#EBFFED;stroke-linecap:butt;stroke-dasharray:1,1.714120388031"
+             id="B1A9A6BE"
+             d="M-8.285343757408,88.8619408116 C-16.8743332094,114.596770036 16.7447162396,121.104925425 1.212091731592,92.2326954806 C1.138680818592,92.0962383876 1.153305914592,92.2336115536 1.212091731592,92.2326954806
+C46.7683038576,91.5227823826 92.1984029356,109.997407858 77.9021373946,133.432705978 C62.4200176846,158.811927558 28.2581669826,124.488504788 1.212091731592,92.2326954806 C1.138610908592,92.1450604576 1.164514582592,92.0527767026 1.283928870592,92.0324004146
+C30.1227938546,87.1114732356 4.389646268592,62.0047138296 -8.393612609408,88.7573478506"/>
+      </g>
+      <g
+          id="DA749FF9_arrowsAlong">
+         <path
+             style="fill:none;stroke-width:3"
+             id="DA749FF9"
+             d="M211.068502598,114.818282563 C211.074655666,103.685680565 208.86121303,92.557952988 204.595265992,82.2751245355 C200.340688342,71.9875867284 194.037337011,62.5539548019 186.161047769,54.686367313 C178.293460281,46.8100780714 168.859828354,40.5067267401 158.572290547,36.2521490901
+C148.289462094,31.9862020524 137.161734517,29.7727594165 126.029132519,29.7789124848 C114.896530521,29.7727594165 103.768802944,31.9862020524 93.4859744913,36.2521490901 C83.1984366842,40.5067267401 73.7648047577,46.8100780714 65.8972172688,54.686367313
+C58.0209280272,62.5539548019 51.7175766959,71.9875867284 47.4629990459,82.2751245355 C43.1970520082,92.557952988 40.9836093723,103.685680565 40.9897624406,114.818282563 C40.9836093723,125.950884562 43.1970520082,137.078612139 47.4629990459,147.361440591
+C51.7175766959,157.648978398 58.0209280272,167.082610325 65.8972172688,174.950197814 C73.7648047577,182.826487055 83.1984366842,189.129838386 93.4859744913,193.384416036 C103.768802944,197.650363074 114.896530521,199.86380571 126.029132519,199.857652642
+C137.161734517,199.86380571 148.289462094,197.650363074 158.572290547,193.384416036 C168.859828354,189.129838386 178.293460281,182.826487055 186.161047769,174.950197814 C194.037337011,167.082610325 200.340688342,157.648978398 204.595265992,147.361440591
+C208.86121303,137.078612139 211.074655666,125.950884562 211.068502598,114.818282563 z"/>
+         <path
+             id="DA749FF9_endVertex_0"
+             style="stroke-width:0.75"
+             d="M204.008979159,80.8619126797 L212.220414076,89.813183718 L204.545537133,92.9971927395 z"/>
+         <path
+             id="DA749FF9_endVertex_1"
+             style="stroke-width:0.75"
+             d="M185.0785766,53.605092062 L196.090456377,58.7326080657 L190.218262156,64.6112970836 z"/>
+         <path
+             id="DA749FF9_endVertex_2"
+             style="stroke-width:0.75"
+             d="M157.158431465,35.6674247991 L169.294297229,36.1905679378 L166.118774068,43.8689598395 z"/>
+         <path
+             id="DA749FF9_endVertex_3"
+             style="stroke-width:0.75"
+             d="M124.499132753,29.7797581265 L135.911408953,25.6188845996 L135.916001468,33.9280138228 z"/>
+         <path
+             id="DA749FF9_endVertex_4"
+             style="stroke-width:0.75"
+             d="M92.0727626355,36.8384359233 L101.024033674,28.6270010068 L104.208042695,36.3018779498 z"/>
+         <path
+             id="DA749FF9_endVertex_5"
+             style="stroke-width:0.75"
+             d="M64.8159420178,55.7688384819 L69.9434580215,44.7569587051 L75.8221470394,50.6291529262 z"/>
+         <path
+             id="DA749FF9_endVertex_6"
+             style="stroke-width:0.75"
+             d="M46.8782747549,83.6889836174 L47.4014178936,71.5531178533 L55.0798097952,74.728641014 z"/>
+         <path
+             id="DA749FF9_endVertex_7"
+             style="stroke-width:0.75"
+             d="M40.9906080823,116.34828233 L36.8297345554,104.936006129 L45.1388637786,104.931413614 z"/>
+         <path
+             id="DA749FF9_endVertex_8"
+             style="stroke-width:0.75"
+             d="M48.0492858791,148.774652447 L39.8378509626,139.823381409 L47.5127279056,136.639372387 z"/>
+         <path
+             id="DA749FF9_endVertex_9"
+             style="stroke-width:0.75"
+             d="M66.9796884377,176.031473065 L55.9678086609,170.903957061 L61.840002882,165.025268043 z"/>
+         <path
+             id="DA749FF9_endVertex_10"
+             style="stroke-width:0.75"
+             d="M94.8998335732,193.969140327 L82.7639678091,193.445997189 L85.9394909698,185.767605287 z"/>
+         <path
+             id="DA749FF9_endVertex_11"
+             style="stroke-width:0.75"
+             d="M127.559132285,199.856807 L116.146856085,204.017680527 L116.14226357,195.708551304 z"/>
+         <path
+             id="DA749FF9_endVertex_12"
+             style="stroke-width:0.75"
+             d="M159.985502403,192.798129203 L151.034231364,201.00956412 L147.850222343,193.334687177 z"/>
+         <path
+             id="DA749FF9_endVertex_13"
+             style="stroke-width:0.75"
+             d="M187.24232302,173.867726645 L182.114807017,184.879606422 L176.236117999,179.0074122 z"/>
+         <path
+             id="DA749FF9_endVertex_14"
+             style="stroke-width:0.75"
+             d="M205.179990283,145.947581509 L204.656847145,158.083447273 L196.978455243,154.907924113 z"/>
+         <path
+             id="DA749FF9_endVertex_15"
+             style="stroke-width:0.75"
+             d="M211.067656956,113.288282797 L215.228530483,124.700558998 L206.91940126,124.705151512 z"/>
+         <path
+             id="DA749FF9_endVertex_17"
+             style="stroke-width:0.75"
+             d="M211.067656956,113.288282797 L215.228530483,124.700558998 L206.91940126,124.705151512 z"/>
+         <path
+             id="DA749FF9_endClosed"
+             style="stroke-width:0.75"
+             d="M211.067656956,113.288282797 L215.228530483,124.700558998 L206.91940126,124.705151512 z"/>
+      </g>
+      <polyline
+          style="fill:none;stroke-width:2;marker-start:url(#583FA61A_start_arrow);marker-end:url(#583FA61A_end_arrow)"
+          id="583FA61A"
+          points="253.07915683,1.05 253.07915683,199.47519685 536.543723758,199.47519685"/>
+      <text
+          id="25330A2A"
+          style="stroke:none"
+          font-family="Cambria Math"
+          font-size="18"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="260.669962907" y="30.6067719847">P(ω)</tspan>
+      </text>
+      <text
+          id="E24F5B2A"
+          style="stroke:none"
+          font-family="Cambria Math"
+          font-size="18"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="503.824949741" y="215.718911387">ω</tspan>
+      </text>
+      <text
+          id="F6FEEB2A"
+          style="stroke:none"
+          font-family="Cambria Math"
+          font-size="18"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="332.830360288" y="215.722075136">ω</tspan>
+      </text>
+      <text
+          id="16E15C2A"
+          style="stroke:none"
+          font-family="Cambria Math"
+          font-size="12"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="347.390660713" y="223.854814775">gyr</tspan>
+      </text>
+      <line
+          style="fill:none;marker-end:url(#4B6B9F2A_end_arrow)"
+          id="4B6B9F2A"
+          x1="50.7469621166"
+          y1="77.4734051116"
+          x2="105.729341198"
+          y2="105.488326527"/>
+      <text
+          id="4B45613A"
+          style="stroke:none"
+          font-family="Cambria Math"
+          font-size="18"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="84.1728608296" y="91.7089175006">a</tspan>
+      </text>
+      <circle
+          id="8D1AFC6A"
+          cx="125.976587128"
+          cy="114.754832518"
+          r="4.056657447382"/>
+      <circle
+          id="A8A06E2A"
+          cx="50.5153844427"
+          cy="76.2442470567"
+          r="8.3359025661"/>
+      <text
+          id="5A4CC67A"
+          style="fill:#A9A9A9;stroke:none"
+          font-family="Helvetica Neue"
+          font-size="9"
+          font-weight="normal"
+          font-style="normal">
+         <tspan x="26.2058787616" y="220.239314347">J. A. Aguilar 2018</tspan>
+      </text>
+      <g
+          id="81D591CE">
+         <path
+             style="fill:#808080"
+             id="6FE7A49A"
+             d="M475.801773606,197.369885585 C470.821679326,196.486007266 465.757162259,195.414390174 460.861490765,194.143100274 C455.802637442,192.829435919 450.80816634,191.278682123 445.921207925,189.421953709 C440.775084942,187.466759505 435.793876972,185.189851359 430.980925085,182.514390067
+C425.695417306,179.576240713 420.732857029,176.224154018 416.040642245,172.407854544 C410.574936038,167.96245452 405.631681328,163.013077792 401.100359405,157.620866606 C395.456108165,150.904284739 390.526377765,143.587946362 386.160076564,135.985855102
+C380.380997958,125.924001615 375.457598167,115.126796303 371.219793724,104.331421844 C365.357395122,89.3975595122 360.43616847,73.5098492274 356.77965743,61.1375081766 C350.59850458,36.1077275385 344.091273426,25.3768098825 335.851055445,27.2687628936
+C309.218684098,27.2687628936 287.997856145,183.391203222 285.737429312,197.392580178"/>
+         <line
+             style="fill:none;stroke-linecap:butt;stroke-width:1.5;stroke-dasharray:5.118827342987,4"
+             id="6976F81A"
+             x1="336.057902845"
+             y1="27.4309362429"
+             x2="338.118526909"
+             y2="199.475196851"/>
+         <text
+             id="76784A9A"
+             style="stroke:none"
+             font-family="Cambria Math"
+             font-size="18"
+             font-weight="normal"
+             font-style="normal">
+            <tspan x="374.950307506" y="98.3088931486">e</tspan>
+         </text>
+         <text
+             id="F3B1FA9A"
+             style="stroke:none"
+             font-family="Cambria Math"
+             font-size="10"
+             font-weight="normal"
+             font-style="normal">
+            <tspan x="383.163679339" y="89.4834019626">-(ω/ω   )</tspan>
+         </text>
+         <text
+             id="42E05C9A"
+             style="stroke:none"
+             font-family="Cambria Math"
+             font-size="5"
+             font-weight="normal"
+             font-style="normal">
+            <tspan x="409.646374885" y="91.4716562266">gyr</tspan>
+         </text>
+         <text
+             id="23BBCE9A"
+             style="stroke:none"
+             font-family="Cambria Math"
+             font-size="18"
+             font-weight="normal"
+             font-style="normal">
+            <tspan x="273.56819666" y="108.763703104">ω</tspan>
+         </text>
+         <text
+             id="36836F9A"
+             style="stroke:none"
+             font-family="Cambria Math"
+             font-size="10"
+             font-weight="normal"
+             font-style="normal">
+            <tspan x="283.453964993" y="96.8349894746">1/3 </tspan>
+         </text>
+      </g>
+   </g>
+</svg>
