@@ -15,10 +15,10 @@ Although certainly is not a requirement to understand the physical processed inv
 
 ### Table of Content (so far, more to come)
 
-* Lesson 1: Introduction and historical Remarks
+* Lesson 1: Introduction and historical remarks
 * Lesson 2: [The computational framework: Particle Physics and Cosmology](https://github.com/zemrude/PHYS-F-467/blob/master/PA2.ipynb)
 * Lesson 3: [Cosmic Rays](https://github.com/zemrude/PHYS-F-467/blob/master/PA3.ipynb)
 * Lesson 4: [Cosmic Rays in Atmosphere](https://github.com/zemrude/PHYS-F-467/blob/master/PA4.ipynb)
-* Lesson 5: [Multimessenger astronomy](https://github.com/zemrude/PHYS-F-467/blob/master/PA5.ipynb)
-* Lesson 6: Dark Matter in astroparticle physics
+* Lesson 5: [Multi-messenger astronomy](https://github.com/zemrude/PHYS-F-467/blob/master/PA5.ipynb)
+* Lesson 6: [Dark Matter in astroparticle physics](https://github.com/zemrude/PHYS-F-467/blob/master/PA6.ipynb)
 * Extras: [Python Tutorials](https://github.com/zemrude/PHYS-F-467/blob/master/tutorials-python.ipynb)
